@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 
 created by https://www.gitignore.io/api/gradle,android,androidstudio
+=======
+# Created by https://www.gitignore.io/api/gradle,android,androidstudio
+>>>>>>> 902d3dcd9aa7ad88ebf09e0263ef434ff1f0b9d6
 
 ### Android ###
 # Built application files
