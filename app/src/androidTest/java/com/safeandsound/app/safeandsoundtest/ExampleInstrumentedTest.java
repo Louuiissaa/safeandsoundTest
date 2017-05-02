@@ -1,4 +1,4 @@
-package com.safeandsound.app.safeandsound;
+package com.safeandsound.app.safeandsoundtest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

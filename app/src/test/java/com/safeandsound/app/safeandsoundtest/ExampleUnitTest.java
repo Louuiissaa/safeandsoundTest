@@ -1,4 +1,4 @@
-package com.safeandsound.app.safeandsound;
+package com.safeandsound.app.safeandsoundtest;
 
 import org.junit.Test;
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sensorType">
+        <item>Camera</item>
+        <item>DHT</item>
+        <item>DS18B20</item>
+        <item>BMP180</item>
+        <item>MQ-?</item>
+        <item>SRF</item>
+        <item>Magnetsensor</item>
+    </string-array>
+    <string-array name="pinNumbering">
+        <item>BCM GPIO</item>
+        <item>Physical pins (rev. 1)</item>
+        <item>Physical pins (rev. 2)</item>
+        <item>WiringPi (rev. 1)</item>
+        <item>WiringPi (rev. 2)</item>
+    </string-array>
+</resources>
